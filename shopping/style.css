@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body{
+    background:#eeeeee;
+    font-family:Meiryo;
+}
+
+div{
+    text-align: center;
+}
+
+nav ul li {
+    display:inline-block;
+    width:80px;
+    background-color:#ffffff;
+    text-align:center;
+    padding:5px;
+    margin-top:10px;
+}
+
+h1{
+    background:#ffffff;
+    width:540px;
+    padding:50px;
+    text-align:center;
+    border:1px solid #cccccc;
+    margin:50px auto;
+    color:rgb(91, 60, 60);
+}
